@@ -63,4 +63,4 @@ Feel free to check the [issues page](../../issues).
 
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
-Project Link: [https://github.com/yourusername/nd-bmi-coach](https://github.com/yourusername/nd-bmi-coach)
+
