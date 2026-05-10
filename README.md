@@ -2,6 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://nd-bmi-coach.lovable.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Built with Lovable](https://img.shields.io/badge/Built%20With-Lovable-ff6b6b?style=for-the-badge&logo=lovable&logoColor=white)
 
 A smart, interactive BMI calculator that goes beyond the numbers — it provides **personalised wellness advice** based on your BMI category and daily routines.
 
